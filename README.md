@@ -1,2 +1,3 @@
 # AI4EO
-Notebooks for the course "Artificial Intelligence (AI) for Earth Monitoring"
+
+[Artificial Intelligence (AI) for Earth Monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
